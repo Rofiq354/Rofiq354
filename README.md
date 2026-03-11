@@ -109,25 +109,11 @@ Today, I thrive at the intersection of **modern technology** and **beautiful des
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rofiq354&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rofiq354&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rofiq354&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rofiq354&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rofiq354&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+  <br/><br/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rofiq354&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rofiq354&theme=onestar&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
